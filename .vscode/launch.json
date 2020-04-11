@@ -1,0 +1,115 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sqaureroot",
+            "request": "launch",
+            "mainClass": "Sqaureroot",
+            "projectName": "java_5eceef90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calendar",
+            "request": "launch",
+            "mainClass": "calander.Calendar",
+            "projectName": "java_5eceef90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - binggo",
+            "request": "launch",
+            "mainClass": "bing5.binggo",
+            "projectName": "java_5eceef90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - allLongestStrings",
+            "request": "launch",
+            "mainClass": "allLongestStrings",
+            "projectName": "java_5eceef90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_5eceef90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - almostIncreasingSequence",
+            "request": "launch",
+            "mainClass": "almostIncreasingSequence"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rename",
+            "request": "launch",
+            "mainClass": "Rename",
+            "projectName": "java_a7cb5238"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fileReName",
+            "request": "launch",
+            "mainClass": "test.fileReName",
+            "projectName": "java_a7cb5238"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fileReName",
+            "request": "launch",
+            "mainClass": "fileReName",
+            "projectName": "java_a7cb5238"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - makeArrayConsecutive",
+            "request": "launch",
+            "mainClass": "makeArrayConsecutive",
+            "projectName": "java_a7cb5238"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_a7cb5238"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java_a7cb5238"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - solutionCountry124",
+            "request": "launch",
+            "mainClass": "solutionCountry124"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - country124",
+            "request": "launch",
+            "mainClass": "country124"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - adjancentElementProduct",
+            "request": "launch",
+            "mainClass": "adjancentElementProduct"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
